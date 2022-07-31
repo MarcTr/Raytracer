@@ -1,4 +1,11 @@
 # Raytracer
+<div align="center">
+
+![c++](https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=C%2B%2B&logoColor=222222)
+![license](https://img.shields.io/npm/l/vue-zooming-image?style=for-the-badge)
+
+</div>
+
 A very simple C++ based Raytracer, originally written in 2015. 
 The code can be compiled using the provided makefile.
 
